@@ -1,1 +1,1 @@
-# Insertion-sort-and-mergesort
+Write programs of insertion sort, and mergesort. Find the input size n, that mergesort starts to beat insertion sort in terms of the worst-case running time. You can use clock_t function(or other time function for higher precision) to obtain running time. You need to set your input such that it results in the worst-case running time. Report running time of each algorithm for each input size n. 
